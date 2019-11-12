@@ -1,0 +1,11 @@
+name: nameGetter
+main: me.jaydenderp.nameGetter.Main
+version: 1.0
+description: Useless plugin lol
+authors: [jaydenderp]
+
+commands:
+  nameget:
+  	aliases: getname
+    description: Get your name
+    usage: /(nameget|getname)
