@@ -6,6 +6,6 @@ authors: [jaydenderp]
 
 commands:
   nameget:
-  	aliases: getname
+    aliases: getname
     description: Get your name
     usage: /(nameget|getname)
